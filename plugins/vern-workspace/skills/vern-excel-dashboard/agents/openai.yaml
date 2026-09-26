@@ -1,6 +1,6 @@
 interface:
-  display_name: "Excel �뾭Ӫ����"
-  short_description: "�õ�һԴ���������ɱ༭����������ȷ�ֶΡ���ʽ�����ܿھ�����·���"
-  default_prompt: "�� $vern-excel-dashboard ����Щ�������ɿ�ά�����������ṩԴ����ָ��͸���˵����"
+  display_name: "Excel 与经营看板"
+  short_description: "用单一源数据驱动可编辑工作簿，明确字段、公式、汇总口径与更新方法"
+  default_prompt: "用 $vern-excel-dashboard 把这些数据做成可维护工作簿，提供源表、指标和更新说明。"
 policy:
   allow_implicit_invocation: true

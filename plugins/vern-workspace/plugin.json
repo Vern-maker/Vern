@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vern-workspace",
   "version": "0.1.0",
-  "description": "Vern �� SOP���г����졢��Ŀͳ���վ SEO�������Ҫ��Excel �������Ʒ��������������",
+  "description": "Vern 的 SOP、市场洞察、项目统筹、网站 SEO、会议纪要、Excel 看板与产品开发工作方法。",
   "author": {
     "name": "Vern",
     "url": "https://github.com/Vern-maker"

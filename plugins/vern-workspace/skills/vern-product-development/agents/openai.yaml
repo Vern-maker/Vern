@@ -1,6 +1,6 @@
 interface:
-  display_name: "��Ʒ������׶���"
-  short_description: "��ͨ��Ʒ�����Ʒ���ɱ������ա���װ�������뷴�������������ݵĽ׶���"
-  default_prompt: "�� $vern-product-development ���������Ʒ�Ŀ����׶Ρ���������κͷ���������"
+  display_name: "产品开发与阶段门"
+  short_description: "贯通新品概念、样品、成本、工艺、包装、上市与反馈，建立有依据的阶段门"
+  default_prompt: "用 $vern-product-development 整理这个新品的开发阶段、交付物、责任和放行条件。"
 policy:
   allow_implicit_invocation: true

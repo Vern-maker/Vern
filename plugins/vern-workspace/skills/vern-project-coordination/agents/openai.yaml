@@ -1,6 +1,6 @@
 interface:
-  display_name: "��Ŀͳ������ȹ���"
-  short_description: "��ͬһ������̨�˴�����̱��������ˡ����ա����������ڻ㱨"
-  default_prompt: "�� $vern-project-coordination ������Щ��Ŀ���������̨�ˡ������뱾�ܴ��������"
+  display_name: "项目统筹与进度管理"
+  short_description: "用同一份任务台账串起里程碑、责任人、风险、依赖和周期汇报"
+  default_prompt: "用 $vern-project-coordination 整理这些项目，输出任务台账、风险与本周待决策事项。"
 policy:
   allow_implicit_invocation: true

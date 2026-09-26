@@ -7,45 +7,45 @@
       "status": "planned",
       "enabled": false,
       "repository": "https://github.com/mermaid-js/mermaid",
-      "purpose": "����ͼ�����ͼ",
-      "contract": "����Դ�� .mmd �� SVG/PDF ��֧�� Mermaid �� Markdown",
-      "acceptance": "����/�쳣�ڵ�һ�£�����������ȱ�֣�����ͼ�ɶ���"
+      "purpose": "流程图与甘特图",
+      "contract": "本地源码 .mmd → SVG/PDF 或支持 Mermaid 的 Markdown",
+      "acceptance": "正常/异常节点一致，中文字体无缺字，导出图可读。"
     },
     {
       "id": "markitdown",
       "status": "planned",
       "enabled": false,
       "repository": "https://github.com/microsoft/markitdown",
-      "purpose": "�ĵ�����ת��",
-      "contract": "��Ȩ�ļ� �� Markdown ����Դҳ��/��������Ϣ",
-      "acceptance": "�ô��������ڡ����������˶�ԭ�ģ���ʧ���ݽ����˹����ˡ�"
+      "purpose": "文档输入转换",
+      "contract": "授权文件 → Markdown 与来源页码/工作表信息",
+      "acceptance": "用带表格、日期、金额的样本核对原文；丢失内容进入人工复核。"
     },
     {
       "id": "n8n",
       "status": "planned",
       "enabled": false,
       "repository": "https://github.com/n8n-io/n8n",
-      "purpose": "���ڻ���������",
-      "contract": "����/֤���¼� �� ������ִ�м�¼����",
-      "acceptance": "ͬһ�¼��طŲ��ظ���������/��Ϣ��ʧ�ܿ�׷������ͣ�á�"
+      "purpose": "周期汇总与提醒",
+      "contract": "任务/证据事件 → 工作流执行记录与结果",
+      "acceptance": "同一事件重放不重复创建任务/消息，失败可追踪且能停用。"
     },
     {
       "id": "firecrawl",
       "status": "planned",
       "enabled": false,
       "repository": "https://github.com/firecrawl/firecrawl",
-      "purpose": "��Ȩ��վ���ݲɼ�",
-      "contract": "URL ��Χ �� ҳ�� Markdown����Դ URL���ɼ�ʱ��",
-      "acceptance": "ָ��ҳ�����˶���Դ�����ģ�����/ʧ�������Ԥ��ɿ��ơ�"
+      "purpose": "授权网站内容采集",
+      "contract": "URL 范围 → 页面 Markdown、来源 URL、采集时间",
+      "acceptance": "指定页样本核对来源和正文，限速/失败清楚，预算可控制。"
     },
     {
       "id": "plane",
       "status": "planned",
       "enabled": false,
       "repository": "https://github.com/makeplane/plane",
-      "purpose": "��Ŀ������ϵͳ",
-      "contract": "tasks.csv �� ָ��������/��Ŀ������ӳ��",
-      "acceptance": "����/����/�ظ�����ֱ���֤������ӳ��ͳ�ͻ������¼��"
+      "purpose": "项目与任务系统",
+      "contract": "tasks.csv → 指定工作区/项目的任务映射",
+      "acceptance": "创建/更新/重复请求分别验证；保留映射和冲突处理记录。"
     }
   ]
 }

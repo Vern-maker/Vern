@@ -1,7 +1,7 @@
 {
   "name": "vern-workspace",
   "version": "0.1.0",
-  "description": "Vern �� SOP���г����졢��Ŀͳ���վ SEO�������Ҫ��Excel �������Ʒ��������������",
+  "description": "Vern 的 SOP、市场洞察、项目统筹、网站 SEO、会议纪要、Excel 看板与产品开发工作方法。",
   "author": {
     "name": "Vern",
     "url": "https://github.com/Vern-maker"
@@ -16,16 +16,16 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Vern ������",
-    "shortDescription": "�����ϵ����̡����졢��Ŀ���ά���Ĺ����ɹ�",
-    "longDescription": "�߸��ɸ���ҵ�� Skills�����������嵥������ģ�塢֤�ݹ���ͱ���У�鹤�ߡ��ⲿϵͳ�������װ��н�Ϊ�滮��",
+    "displayName": "Vern 工作区",
+    "shortDescription": "从资料到流程、洞察、项目与可维护的工作成果",
+    "longDescription": "七个可复用业务 Skills，配套输入清单、交付模板、证据规则和本地校验工具。外部系统接入在首版中仅为规划。",
     "developerName": "Vern",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
-      "������������������Ρ��������쳣��������� SOP��",
-      "����Щ��Ŀ�����ɸ����ˡ����ޡ����պ���һ�������塣",
-      "����ݻ����¼�����ɾ��ߺͿ�׷���ж��"
+      "把这份流程整理成责任、表单和异常回流清楚的 SOP。",
+      "把这些项目整理成负责人、期限、风险和下一动作看板。",
+      "把这份会议记录整理成决策和可追踪行动项。"
     ]
   }
 }

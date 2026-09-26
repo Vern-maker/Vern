@@ -1,6 +1,6 @@
 interface:
-  display_name: "��վ������ SEO"
-  short_description: "Χ�� B2B ���ڡ�ҳ��Ŀ����������ͼ�������վ�İ����Ż�����"
-  default_prompt: "�� $vern-website-seo �������ṩ��ҳ�棬�����ṹ��Ӣ���İ���SEO �� CTA �޸ĸ塣"
+  display_name: "网站内容与 SEO"
+  short_description: "围绕 B2B 受众、页面目标与搜索意图输出可上站文案和优化建议"
+  default_prompt: "用 $vern-website-seo 审阅我提供的页面，给出结构、英文文案、SEO 与 CTA 修改稿。"
 policy:
   allow_implicit_invocation: true
