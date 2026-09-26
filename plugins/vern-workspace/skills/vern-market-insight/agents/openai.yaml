@@ -1,0 +1,6 @@
+interface:
+  display_name: "�г������������֤"
+  short_description: "�����г�֤�ݡ����������󡢾��������������֤��ҵ�����"
+  default_prompt: "�� $vern-market-insight ������ָ�����г���Ʒ�࣬������֤�ݵĻ��ἰ��֤�ƻ���"
+policy:
+  allow_implicit_invocation: true

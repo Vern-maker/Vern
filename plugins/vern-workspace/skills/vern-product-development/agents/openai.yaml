@@ -1,0 +1,6 @@
+interface:
+  display_name: "��Ʒ������׶���"
+  short_description: "��ͨ��Ʒ�����Ʒ���ɱ������ա���װ�������뷴�������������ݵĽ׶���"
+  default_prompt: "�� $vern-product-development ���������Ʒ�Ŀ����׶Ρ���������κͷ���������"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "�����Ҫ���ж��ջ�"
+  short_description: "�����ؼ���ʵ��������ݣ�����������ת�����κ�������ȷ���ж���"
+  default_prompt: "�� $vern-meeting-minutes ������ݼ�¼��������ߡ��ж������ȷ�ϵ�ì�ܡ�"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+# Business case data belongs in a private workspace, not the reusable plugin.
+cases/
+work/
+outputs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

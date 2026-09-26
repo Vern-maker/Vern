@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vern-workspace",
+  "version": "0.1.0",
+  "description": "Vern �� SOP���г����졢��Ŀͳ���վ SEO�������Ҫ��Excel �������Ʒ��������������",
+  "author": {
+    "name": "Vern",
+    "url": "https://github.com/Vern-maker"
+  },
+  "repository": "https://github.com/Vern-maker/Vern",
+  "keywords": [
+    "vern",
+    "operations",
+    "research",
+    "sop",
+    "project-management"
+  ]
+}

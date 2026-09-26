@@ -1,0 +1,6 @@
+interface:
+  display_name: "Excel �뾭Ӫ����"
+  short_description: "�õ�һԴ���������ɱ༭����������ȷ�ֶΡ���ʽ�����ܿھ�����·���"
+  default_prompt: "�� $vern-excel-dashboard ����Щ�������ɿ�ά�����������ṩԴ����ָ��͸���˵����"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,31 @@
+{
+  "name": "vern-workspace",
+  "version": "0.1.0",
+  "description": "Vern �� SOP���г����졢��Ŀͳ���վ SEO�������Ҫ��Excel �������Ʒ��������������",
+  "author": {
+    "name": "Vern",
+    "url": "https://github.com/Vern-maker"
+  },
+  "repository": "https://github.com/Vern-maker/Vern",
+  "keywords": [
+    "vern",
+    "operations",
+    "research",
+    "sop",
+    "project-management"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Vern ������",
+    "shortDescription": "�����ϵ����̡����졢��Ŀ���ά���Ĺ����ɹ�",
+    "longDescription": "�߸��ɸ���ҵ�� Skills�����������嵥������ģ�塢֤�ݹ���ͱ���У�鹤�ߡ��ⲿϵͳ�������װ��н�Ϊ�滮��",
+    "developerName": "Vern",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "������������������Ρ��������쳣��������� SOP��",
+      "����Щ��Ŀ�����ɸ����ˡ����ޡ����պ���һ�������塣",
+      "����ݻ����¼�����ɾ��ߺͿ�׷���ж��"
+    ]
+  }
+}

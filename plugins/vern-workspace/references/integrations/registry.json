@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "configuration_kind": "planning-only",
+  "integrations": [
+    {
+      "id": "mermaid",
+      "status": "planned",
+      "enabled": false,
+      "repository": "https://github.com/mermaid-js/mermaid",
+      "purpose": "����ͼ�����ͼ",
+      "contract": "����Դ�� .mmd �� SVG/PDF ��֧�� Mermaid �� Markdown",
+      "acceptance": "����/�쳣�ڵ�һ�£�����������ȱ�֣�����ͼ�ɶ���"
+    },
+    {
+      "id": "markitdown",
+      "status": "planned",
+      "enabled": false,
+      "repository": "https://github.com/microsoft/markitdown",
+      "purpose": "�ĵ�����ת��",
+      "contract": "��Ȩ�ļ� �� Markdown ����Դҳ��/��������Ϣ",
+      "acceptance": "�ô��������ڡ����������˶�ԭ�ģ���ʧ���ݽ����˹����ˡ�"
+    },
+    {
+      "id": "n8n",
+      "status": "planned",
+      "enabled": false,
+      "repository": "https://github.com/n8n-io/n8n",
+      "purpose": "���ڻ���������",
+      "contract": "����/֤���¼� �� ������ִ�м�¼����",
+      "acceptance": "ͬһ�¼��طŲ��ظ���������/��Ϣ��ʧ�ܿ�׷������ͣ�á�"
+    },
+    {
+      "id": "firecrawl",
+      "status": "planned",
+      "enabled": false,
+      "repository": "https://github.com/firecrawl/firecrawl",
+      "purpose": "��Ȩ��վ���ݲɼ�",
+      "contract": "URL ��Χ �� ҳ�� Markdown����Դ URL���ɼ�ʱ��",
+      "acceptance": "ָ��ҳ�����˶���Դ�����ģ�����/ʧ�������Ԥ��ɿ��ơ�"
+    },
+    {
+      "id": "plane",
+      "status": "planned",
+      "enabled": false,
+      "repository": "https://github.com/makeplane/plane",
+      "purpose": "��Ŀ������ϵͳ",
+      "contract": "tasks.csv �� ָ��������/��Ŀ������ӳ��",
+      "acceptance": "����/����/�ظ�����ֱ���֤������ӳ��ͳ�ͻ������¼��"
+    }
+  ]
+}

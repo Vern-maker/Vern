@@ -1,0 +1,6 @@
+interface:
+  display_name: "SOP ����ҵ����"
+  short_description: "�ѿ粿����������Ϊ���������������ȫ���쳣�ɻ����Ĳ����淶"
+  default_prompt: "�� $vern-sop �����ṩ���������������ɿ�ִ�� SOP�����г���ȷ�Ϲ���"
+policy:
+  allow_implicit_invocation: true

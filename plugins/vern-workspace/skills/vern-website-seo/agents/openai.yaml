@@ -1,0 +1,6 @@
+interface:
+  display_name: "��վ������ SEO"
+  short_description: "Χ�� B2B ���ڡ�ҳ��Ŀ����������ͼ�������վ�İ����Ż�����"
+  default_prompt: "�� $vern-website-seo �������ṩ��ҳ�棬�����ṹ��Ӣ���İ���SEO �� CTA �޸ĸ塣"
+policy:
+  allow_implicit_invocation: true
