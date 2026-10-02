@@ -1,0 +1,7 @@
+private/
+backups/
+logs/
+.env
+*.env
+auth.json
+*Private*Restore*.zip
