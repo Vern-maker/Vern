@@ -2,14 +2,15 @@
 
 首版 0.1.0：把 Vern 的 SOP、研究、项目、网站、会议、Excel 和产品开发方法整理成七个可复用 Skills。既可在本仓库中由 Codex 读取，也可通过仓库 marketplace 安装完整插件。**仓库创建不等于本机已经安装或外部工具已接通。**
 
-## Vern 知行脑公开教程
+## Vern 知行工作法与搭建方案
 
-[开始阅读：搭建、日常使用与换电脑恢复](tutorials/vern-zhixing-brain-guide/README.md)。本次发布为 V1.1 脱敏阅读版，包含通用工作方法、恢复步骤与验收清单。
+[开始阅读完整教程](tutorials/vern-zhixing-brain-guide/README.md)：明确任务 → 查阅证据 → 选择方法 → 执行交付 → 验收记录 → 复用改进。
 
-- [下载完整脱敏阅读包](https://github.com/Vern-maker/Vern/raw/refs/heads/main/downloads/Vern_Brain_Public_Guide_Redacted_V1.1.zip)
+- [搭建本地工作空间](tutorials/vern-zhixing-brain-guide/docs/02-start.md)：Windows 操作步骤、初始化与只读检索脚本、执行工具接入及示例验收。
+- [下载 V1.2 完整搭建包](https://github.com/Vern-maker/Vern/raw/refs/heads/main/downloads/Vern_Zhixing_Method_V1.2.zip)
 - [下载文件 SHA-256 校验值](downloads/Vern_Brain_Public_SHA256.txt)
 
-公开版已删除个人路径、知识库结构清单、个人 Skills 目录、路由字段说明及原环境验收摘要。安装器、补丁和源码快照未纳入本版；程序获取方式见教程。个人资料和私人恢复包须自行保管。
+公开包包含独立的方法教程、新建空白模板和本地工具。个人资料自行保管；初始化不改全局配置，也不自动调用模型或开启定时任务。
 
 ## 已包含的能力
 
